@@ -1,1 +1,1 @@
-git@github.com:PietrodeOcre/my_calculator.git
+https://github.com/PietrodeOcre/my_calculator.git
